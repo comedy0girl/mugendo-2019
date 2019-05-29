@@ -1,0 +1,95 @@
+li, ul {
+	color: #29282d;
+}
+
+.full-width-header, .full-width-header-home {
+	min-height: 480px !important;
+}
+.full-width-header-inner {
+	height: 480px !important;
+}
+.qodef-full-width-inner {
+	padding-top: 0px !important;
+}
+
+.qodef-info-box-holder.qodef-info-box-with-image:hover > .qodef-info-box-holder .qodef-ib-front-holder{
+	padding: 0px !important;
+}
+
+
+.vc_column_container>.vc_column-inner {
+padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+.qodef-info-box-holder.qodef-info-box-with-image { height: 400px !important;}
+
+.qodef-info-box-holder .qodef-ib-front-holder {
+	padding: 100px;
+}
+
+.qodef-info-box-holder .qodef-ib-front-holder:hover {
+	padding: 20px !important;
+}
+
+.qodef-content .qodef-content-inner>.qodef-container>.qodef-container-inner, .qodef-content .qodef-content-inner>.qodef-full-width>.qodef-full-width-inner {
+	padding-bottom: 0px !important;
+}
+
+.qodef-info-box-holder .qodef-ib-front-holder .qodef-ib-title {
+	font-size: 4em;
+}
+
+.wpcf7-form-control.wpcf7-text, .wpcf7-form-control.wpcf7-textarea {
+	border: 1px solid #363636;
+}
+
+.qodef-info-box-holder .qodef-ib-front-holder .qodef-ib-text-holder p {
+	color: white;
+}
+
+.white-text {
+	color: white !important;
+}
+.qodef-ib-top-holder {
+    margin-top: 0px !important;
+}
+.vc_row .qodef-grid-line-center, .vc_row .qodef-grid-line-right {
+	background: none;
+}
+
+.qodef-team-image {
+	height: 400px
+}
+
+
+
+.qodef-ib-front-holder-inner {
+    background: rgba(204, 20, 20, 0.6);
+	padding: 1em;
+}
+
+.full-width-header-home .qodef-ib-front-holder-inner {
+	background: transparent !important;
+}
+
+.qodef-ib-front-holder-inner:hover {
+	background: none;
+	padding: 0;
+}
+
+.white-text h4, .white-text p {
+	color: white !important
+}
+
+.red-text {
+	color: #ec3438;
+}
+
+.qodef-top-bar .qodef-btn.qodef-btn-small .qodef-btn-text {
+	font-size: 20px;
+}
+
+div#instructors-row {
+    padding: 0 2.1em;
+}
