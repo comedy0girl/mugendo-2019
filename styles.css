@@ -1,14 +1,14 @@
 li, ul {
-	color: #29282d;
+    color: #29282d;
 }
 
 .full-width-no-picture .qodef-ib-front-holder-inner {
-	background: none;
+    background: none;
 }
 
-.qodef-info-box-holder.qodef-info-box-with-image:hover 	.qodef-ib-front-holder-inner {
-		background: none !important;
-	}
+.qodef-info-box-holder.qodef-info-box-with-image:hover  .qodef-ib-front-holder-inner {
+        background: none !important;
+    }
 
 .qodef-info-box-holder.qodef-info-box-with-image:hover .qodef-ib-front-holder {
     margin-top: -18em;
@@ -19,20 +19,20 @@ li, ul {
 }
 
 .qodef-info-box-holder .qodef-ib-front-holder .qodef-ib-bottom-holder {
-	padding: 0;
+    padding: 0;
 }
 
 .qodef-info-box-holder .qodef-ib-front-holder {
-	width: 100% !important;
+    width: 100% !important;
 }
 .full-width-header, .full-width-header-home {
-	min-height: 480px !important;
+    min-height: 480px !important;
 }
 .full-width-header-inner {
-	height: 480px !important;
+    height: 480px !important;
 }
 .qodef-full-width-inner {
-	padding-top: 0px !important;
+    padding-top: 0px !important;
 }
 
 .full-width-header, .full-width-header-home .qodef-ib-overlay {
@@ -40,13 +40,13 @@ li, ul {
 }
 
 .qodef-info-box-holder.qodef-info-box-with-image:hover > .qodef-info-box-holder .qodef-ib-front-holder{
-	padding: 0px !important;
+    padding: 0px !important;
 }
 
 
 .vc_column_container>.vc_column-inner {
 padding-left: 0px !important;
-	padding-right: 0px !important;
+    padding-right: 0px !important;
 }
 
 .qodef-info-box-holder.qodef-info-box-with-image { 
@@ -56,7 +56,7 @@ padding: 0 !important;
 
 
 .qodef-info-box-holder .qodef-info-box-inner {
-	display: -webkit-box;
+    display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
@@ -68,66 +68,66 @@ padding: 0 !important;
 }
 
 .qodef-info-box-holder .qodef-ib-front-holder:hover {
-	padding: 20px !important;
+    padding: 20px !important;
 }
 
 .qodef-content .qodef-content-inner>.qodef-container>.qodef-container-inner, .qodef-content .qodef-content-inner>.qodef-full-width>.qodef-full-width-inner {
-	padding-bottom: 0px !important;
+    padding-bottom: 0px !important;
 }
 
 .qodef-info-box-holder .qodef-ib-front-holder .qodef-ib-title {
-	font-size: 4em;
+    font-size: 4em;
 }
 
 .wpcf7-form-control.wpcf7-text, .wpcf7-form-control.wpcf7-textarea {
-	border: 1px solid #363636;
+    border: 1px solid #363636;
 }
 
 .qodef-info-box-holder .qodef-ib-front-holder .qodef-ib-text-holder p {
-	color: white;
+    color: white;
 }
 
 .white-text {
-	color: white !important;
+    color: white !important;
 }
 .qodef-ib-top-holder {
     margin-top: 0px !important;
 }
 .vc_row .qodef-grid-line-center, .vc_row .qodef-grid-line-right {
-	background: none;
+    background: none;
 
 }
 
 .qodef-team-image {
-	height: 400px
+    height: 400px
 }
 
 
 
 .qodef-ib-front-holder-inner {
     background: rgba(204, 20, 20, 0.6);
-	padding: 0 0.2em;
+    padding: 0 0.2em;
 }
 
 .full-width-header-home .qodef-ib-front-holder-inner {
-	background: transparent !important;
+    background: transparent !important;
 }
 
 .qodef-ib-front-holder-inner:hover {
-	background: none;
-	padding: 0;
+    background: none;
+    padding: 0;
 }
 
 .white-text h4, .white-text p {
-	color: white !important
+    color: white !important
 }
 
 .red-text {
-	color: #ec3438;
+    color: #ec3438;
 }
 
 .qodef-top-bar .qodef-btn.qodef-btn-small .qodef-btn-text {
-	font-size: 20px;
+    font-size: 20px;
 }
 
 
@@ -171,5 +171,24 @@ label {
     }
 
 .qodef-widget-title-holder h5.qodef-widget-title {
-	color: #363636 !important;
+    color: #363636 !important;
+}
+
+
+.full-width-no-picture .vc_column_container .vc_column-inner {
+    padding-top: 0;
+}
+
+.contact-half {
+    vertical-align: top !important;
+}
+
+h5.qodef-widget-title {
+    font-size: 30px;
+}
+
+@media only screen and (max-width: 390px) {
+  .qodef-section-title-holder.instructors-mobile.qodef-tn-position-left.qodef-st-disable-title-break h2.qodef-st-title {
+    font-size: 27px;
+}
 }
